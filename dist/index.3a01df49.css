@@ -1,0 +1,21 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  overflow: hidden;
+}
+
+canvas {
+  left: 0;
+  position: fixed;
+  top: 0;
+  /* background-image: url(./bg.jpg);
+  background-size: cover; */
+}
+
+/*# sourceMappingURL=index.3a01df49.css.map */
